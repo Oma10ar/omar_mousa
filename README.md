@@ -49,9 +49,23 @@
 
 <div align="center">
 
-### 📊 Total Problems Solved: **500+**
+<table>
+  <tr>
+    <td>
+      
+![Problem Solving Chart](https://quickchart.io/chart?c=%7B%22type%22%3A%22doughnut%22%2C%22options%22%3A%7B%22plugins%22%3A%7B%22legend%22%3A%7B%22display%22%3Afalse%7D%7D%7D%2C%22data%22%3A%7B%22labels%22%3A%5B%22Easy%20(300)%22%2C%22Medium%20(200)%22%2C%22Hard%20(100)%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B300%2C200%2C100%5D%2C%22backgroundColor%22%3A%5B%22%23227A33%22%2C%22%23B8860B%22%2C%22%238B0000%22%5D%7D%5D%7D%7D&width=200&height=200)
 
-![Problem Solving Chart](https://quickchart.io/chart?c=%7B%22type%22%3A%22doughnut%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Easy%20(300)%22%2C%22Medium%20(200)%22%2C%22Hard%20(100)%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B300%2C200%2C100%5D%2C%22backgroundColor%22%3A%5B%22%234CAF50%22%2C%22%23FFC107%22%2C%22%23F44336%22%5D%7D%5D%7D%7D)
+    </td>
+    <td>
+      <ul>
+        <li>🟢 <b>Easy:</b> 300 (60%)</li>
+        <li>🟡 <b>Medium:</b> 200 (30%)</li>
+        <li>🔴 <b>Hard:</b> 100 (10%)</li>
+        <li>⚡ <b>Total:</b> 500+</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 </div>
 
