@@ -1,10 +1,13 @@
-## Nice to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
+## Hi ! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-I'm **Omar Mousa**, a Syrian programmer currently studying **Informatics Engineering** at the **Syrian Virtual University**, and **Electrical Engineering** at the **University of Aleppo**.  
-I'm passionate about technology, programming, and always eager to learn and explore the latest in software development.  
+I'm **Omar Mousa**, a Syrian programmer currently studying **IT** at the **Syrian Virtual University**
+and **Electrical Engineering** at the **University of Aleppo**.  
+I'm passionate about technology, programming
+and always eager to learn and explore the latest in software development.  
 Open to collaboration on open-source projects and creative/innovative ideas.
 
-I have experience with a wide range of programming languages such as **C++**, **C#**, and **Python**, and I have solved **over 500 programming problems** across different platforms — ranging from easy to hard difficulty.
+I have experience with a wide range of programming languages such as **C++**, **C#**, and **Python**
+I have solved **over 500 programming problems** across different platforms — ranging from easy to hard difficulty.
 
 Feel free to connect with me through the following platforms:
 
@@ -19,12 +22,6 @@ Feel free to connect with me through the following platforms:
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Node.js](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
