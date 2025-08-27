@@ -45,6 +45,18 @@
 
 ---
 
+## 🏆 Problem Solving Stats
+
+<div align="center">
+
+### 📊 Total Problems Solved: **500+**
+
+![Problem Solving Chart](https://quickchart.io/chart?c=%7B%22type%22%3A%22doughnut%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Easy%20(300)%22%2C%22Medium%20(200)%22%2C%22Hard%20(100)%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B300%2C200%2C100%5D%2C%22backgroundColor%22%3A%5B%22%234CAF50%22%2C%22%23FFC107%22%2C%22%23F44336%22%5D%7D%5D%7D%7D)
+
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
