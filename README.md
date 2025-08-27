@@ -11,7 +11,7 @@
     </tr>
     <tr>
       <td><b>🌍 Country</b></td>
-      <td>Syria 🇸🇾</td>
+      <td>Syria </td>
     </tr>
     <tr>
       <td><b>🎓 Fields of Study</b></td>
